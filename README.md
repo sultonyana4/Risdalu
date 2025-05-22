@@ -10,7 +10,7 @@ Risdalu Token Claim is a Mini App built for the Farcaster ecosystem that enables
 
 ## Features
 
-- **Token Claiming**: Claim 1 ETH worth of RIS tokens every 24 hours
+- **Token Claiming**: Claim 1 MON worth of RIS tokens every 24 hours
 - **Wallet Connection**: Seamless connection with Warpcast wallet
 - **Network Check**: Automatic verification of Monad Testnet connection
 - **Token Balance**: View your current RIS token balance
