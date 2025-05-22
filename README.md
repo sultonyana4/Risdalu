@@ -54,7 +54,7 @@ You can try the app live at [https://risdalu.vercel.app](https://risdalu.vercel.
 ## Smart Contract
 
 The Risdalu Token Claim contract is deployed on Monad Testnet. It allows users to:
-- Claim 1 ETH worth of RIS tokens every 24 hours
+- Claim 1 MON worth of RIS tokens every 24 hours
 - Check their last claim time
 - View their token balance
 
